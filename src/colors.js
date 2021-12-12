@@ -17,7 +17,10 @@ const lighterGray = '#E9EAEC'
 const gray = '#DFE1E4'
 const grayBlue = '#DDE5FD'
 
+
 const disabledBlue = '#B6C5DC'
+const delSvg = '#F04F2B'
+const linkSvg = '#000000'
 
 export default {
   brightPrimary,
@@ -36,4 +39,6 @@ export default {
   grayBlue,
   gray,
   disabledBlue,
+  delSvg: delSvg,
+  linkSvg: linkSvg,
 }
