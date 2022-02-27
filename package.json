@@ -17,10 +17,14 @@
     "@storybook/addon-links": "^6.4.9",
     "@storybook/addons": "^6.4.9",
     "@storybook/react": "6.4.9",
-    "parcel": "^1.12.3"
+    "parcel": "^1.12.3",
+    "prop-types": "^15.7.2"
   },
   "dependencies": {
+    "@material-ui/core": "^4.12.3",
     "babel-loader": "^8.2.1",
+    "preact": "^10.6.4",
+    "preact-compat": "^3.19.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "styled-components": "^5.2.1",
